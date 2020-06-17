@@ -13,3 +13,5 @@ Problem Description:
 |          | 6   | W4 W6 W3          | Francis Bacon       |
 |          | 7   | W2 W2 W4 W3 W5 W5 | Francis Bacon       |
 | Test     | 8   | W1 W4 W6 W5 W3    | ?                   |
+
+please go to [Here](https://github.com/Quan25/python-naiver-bayes/blob/master/Naiver_Bayes_Text_classification.ipynb) for detailed process of solving this problem
